@@ -42,7 +42,7 @@ GUILD_ID=9054168492797956147
 
 ```sh   
 TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3
-```  
+```   
 </p>  
 
 <b>P.S. if you are getting 429 Too Many Requests thats the proxies fault you have to be patient to cycle through valid proxies again</b>
