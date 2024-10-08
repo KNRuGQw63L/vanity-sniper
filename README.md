@@ -26,7 +26,7 @@
   ```  
  
 #### 2. create .env file as in example 
- 
+  
 ```sh
 VANITY_URL=testingtesting
 GUILD_ID=9054168492797956147
