@@ -33,7 +33,7 @@ GUILD_ID=9054168492797956147
 TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3   
 ```   
    
-#### 3. Change it to your server ID  
+#### 3. Change it to your server ID   
 ```sh
 GUILD_ID=9054168492797956147 
 ```  
