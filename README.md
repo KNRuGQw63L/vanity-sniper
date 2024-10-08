@@ -4,7 +4,7 @@
   <p align="center">
     <br /> 
     <b>Discord</b> <b>Custom</b> url <b>Sniper</b> with proxies
-    
+     
   </p>
  
 # Guide on how to install these tool 
