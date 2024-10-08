@@ -2,7 +2,7 @@
    
 
   <p align="center">
-    <br />
+    <br /> 
     <b>Discord</b> <b>Custom</b> url <b>Sniper</b> with proxies
     
   </p>
