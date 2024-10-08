@@ -39,7 +39,7 @@ GUILD_ID=9054168492797956147
 ```  
 
 #### 4. Change token with your Discord account token which has admin privilleges on the specifc server   
-
+ 
 ```sh   
 TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3 
 ```   
