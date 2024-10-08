@@ -35,7 +35,7 @@ TOKEN=Mjc1MjMxNzI3OTQzOTQyMTQ3
   
 #### 3. Change it to your server ID 
 ```sh
-GUILD_ID=9054168492797956147
+GUILD_ID=9054168492797956147 
 ```  
 
 #### 4. Change token with your Discord account token which has admin privilleges on the specifc server
