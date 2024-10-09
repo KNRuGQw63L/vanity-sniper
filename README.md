@@ -18,7 +18,7 @@
 4. Go in the extracted folder and open the start.bat file
 
 5. Enjoy! 
-
+ 
 #### 1. Prerequisites
  
   ```sh
