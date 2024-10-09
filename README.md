@@ -1,7 +1,7 @@
 <p align="center"> 
    
  
-  <p align="center">  
+  <p align="center">   
     <br />  
     <b>Discord</b> <b>Custom</b> url <b>Sniper</b> with proxies  
       
