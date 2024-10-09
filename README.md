@@ -20,7 +20,7 @@
 5. Enjoy! 
  
 #### 1. Prerequisites
- 
+  
   ```sh
   pip install -r requirements.txt 
   ```  
